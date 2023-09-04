@@ -1,4 +1,5 @@
 # seminars 
+N. V. Priezjev, “Fatigue failure of metallic glasses under cyclic shear deformation”, Howard University, 2023.
 
 N. V. Priezjev, “Atomistic modeling of cyclic loading and heat treatment processes for tuning the mechanical properties of amorphous alloys”, MRS, Fall 2019.
 
