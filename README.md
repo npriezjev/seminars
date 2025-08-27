@@ -9,6 +9,9 @@
 •	materials_processing.pdf
 •	N. V. Priezjev, “Atomistic modeling of cyclic loading and heat treatment processes for tuning the mechanical properties of amorphous alloys”, MRS, Fall 2019.
 
+•	Anish_APS_March2021.pdf
+•	A. Thomas and N. V. Priezjev, “Molecular dynamics simulation study of a polymer droplet motion over an array of spherical nanoparticles”, APS March Meeting 2021. https://youtu.be/cUkXYlXpW4E
+
 •	wett_sphere_slides.pdf
 •	B. Bhattarai, “Wetting properties of structured interfaces composed of surface-attached spherical nanoparticles”, M.S. thesis, Wright State University, 2018.
 
