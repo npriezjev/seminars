@@ -1,7 +1,7 @@
 # Selected seminars 
 
 •	seminar_fatigue_failure_2023.pdf
-•	N. V. Priezjev, “Fatigue failure of metallic glasses under cyclic shear deformation”, Howard University, 2023.
+•	N. V. Priezjev, “Fatigue failure of metallic glasses under cyclic shear deformation”, Howard University, 2023. https://youtu.be/92F8kajDvbk
 
 •	cooling_under_stress_2021.pdf
 •	N. V. Priezjev, “Rapidly cooling metallic glasses across the glass transition temperature under applied stress”, 2022.
