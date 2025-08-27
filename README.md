@@ -4,7 +4,7 @@
 •	N. V. Priezjev, “Fatigue failure of metallic glasses under cyclic shear deformation”, Howard University, 2023.
 
 •	cooling_under_stress_2021.pdf
-•	Rapidly cooling metallic glasses across the glass transition temperature under applied stress, 2022.
+•	N. V. Priezjev, “Rapidly cooling metallic glasses across the glass transition temperature under applied stress”, 2022.
 
 •	materials_processing.pdf
 •	N. V. Priezjev, “Atomistic modeling of cyclic loading and heat treatment processes for tuning the mechanical properties of amorphous alloys”, MRS, Fall 2019.
